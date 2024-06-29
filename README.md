@@ -30,7 +30,6 @@
 19. Написал отчет о тестировании, в который приложил тестовую документацию и данные о найденных дефектах, а так же свои рекомендации по результатам тестирования
 
 Ссылка на проект: https://ilua-bug-report.atlassian.net/wiki/spaces/~63f8e150526117e1514d7c5a/pages/950273/1+2
-Если нет доступа: https://drive.google.com/drive/folders/1uZrRETb25NomOBErMN5brA8jKR9x2N3e?usp=sharing
 
 
 Выводы(Итоги):  
